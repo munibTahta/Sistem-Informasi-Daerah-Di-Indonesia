@@ -1,7 +1,9 @@
 # Sistem-Informasi-Daerah-Di-Indonesia
 Aplikasi Sistem Informasi Daerah dengan Algoritma Boolean 
+
 #requirement
 Node.js
-#install
+
+<b>install</b>
 npm install
 npm start
