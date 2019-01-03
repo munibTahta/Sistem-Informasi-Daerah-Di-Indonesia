@@ -1,0 +1,47 @@
+#container {
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+/* body { 
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+} */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+ul {
+	list-style-type: none;
+  	padding: 0;
+}
+h2 {
+	text-align:center;
+}
+.docpanel {
+	padding:10px;
+	margin-bottom:10px;
+}
+.docpanel-header {
+	color: #09AFE3;
+	padding-bottom:2px;
+}
+.docpanel-subtitle {
+	color: #2A5679;
+	font-size:0.8em;
+}
+.docpanel-body {
+	color: #403E41;
+	font-size:0.8em;
+}
+.desc {
+	margin-left:5px;
+}
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}

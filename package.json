@@ -1,0 +1,31 @@
+{
+  "name": "information-retrieval",
+  "version": "1.0.0",
+  "description": "Example of a search engine using TF-IDF algorithm",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "porter-stemmer": "^0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjsk/information-retrieval.git"
+  },
+  "keywords": [
+    "search",
+    "engine",
+    "tf",
+    "idf"
+  ],
+  "author": "Artur Rajski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjsk/information-retrieval/issues"
+  },
+  "homepage": "https://github.com/rjsk/information-retrieval#readme"
+}
